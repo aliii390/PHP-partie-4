@@ -1,13 +1,11 @@
 <?php
 
-// function text($str,$strDeux){
-//     return $str . $strDeux;
-// }
 
-// echo text("salut")
+function caractere($str){
+    return $str;
+}
 
-
-
-// a la recherche d'une solution 
+echo caractere("salut" . " tout le monde")
 
 ?>
+
